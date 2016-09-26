@@ -2,7 +2,7 @@
  
 ##Pruébalo de manera online
 
-No todos quieren tener instalado todo una vez, así que tu puedes seguir esta guía con el [editor online](http://elm-lang.org/try). No se tendrá el REPL para la selección “Lenguaje fundamental”, pero todo lo demás va a funcionar muy bien. 
+No todos quieren tener instalado todo una vez, así que  puede  seguir esta guía con el [editor online](http://elm-lang.org/try). No se tendrá el REPL para la selección “Lenguaje fundamental”, pero todo lo demás va a funcionar muy bien. 
 
 Se pude ver el editor online en acción con estos [ejemplos](http://elm-lang.org/examples) de pequeños programas de Elm.
 
