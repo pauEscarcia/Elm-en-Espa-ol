@@ -31,7 +31,7 @@ Si no se tiene un editor como tal, [Sublime Text](https://packagecontrol.io/pack
 
 ## Solución de Problemas 
 
-La manera rápida para aprender cualquier cosa es hablar con otras personas en la comunidad de Elm. Son amables y están felices de ayudar. Asi que si se atascasca durante la instalación o se encuentra algo raro visita [Elm Slack](http://elmlang.herokuapp.com/) y pregunta por ello. De hecho, si se llega a estar confuso en cualquier punto mientras esta aprendiendo o usando Elm, pregunte. Puede ahorrarse horas.
+La manera rápida para aprender cualquier cosa es hablar con otras personas en la comunidad de Elm. Son amables y están felices de ayudar. Asi que si se atasca durante la instalación o se encuentra algo raro visita [Elm Slack](http://elmlang.herokuapp.com/) y pregunta por ello. De hecho, si se llega a estar confuso en cualquier punto mientras está aprendiendo o usando Elm, pregunte. Puede ahorrarse horas.
 
 ## ¿Qué es la plataforma Elm?
 
