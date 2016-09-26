@@ -73,7 +73,7 @@ elm-reactor
 
 Esto empieza un servidor `http://localhost:8000`. Puede desplazarse a un archivo Elm y ver como se ve. 
 
-** Banderas notables: **
+#### Banderas notables: 
 * `--port` permite elegir algo más que el puerto 8000. Por lo tanto, se puede decir que `elm-reactor --port=8123` para hacer correr el código en la dirección `http://localhost:8123`.
 * `--address` esto remplaza `localhost` con otra dirección. Por ejemplo, si quiere usar `elm-reactor –address=0.0.0.0`  quiere probar el programa Elm en un dispositivo móvil en la red local.
 
@@ -84,7 +84,7 @@ Esto empieza un servidor `http://localhost:8000`. Puede desplazarse a un archivo
 Si quiere compilar `Main.elm` a un archivo HTML llamado `main.html`. Debe de correr este comando: 
 `elm-make Main.elm --output=main.html`
 
-** Banderas notables: ** 
+#### Banderas notables:
 * `--warn` imprime los warnings para mejorar la calidad del código.
 
 ### Elm-package
@@ -100,7 +100,7 @@ elm-package install NoRedInk/elm-decode-pipeline
 
 Esto añade las dependencias a el archivo `elm-package.json` que describe el proyecto. (¡O crealo si no tiene uno todavía!).
 
-** Comandos notables: **
+#### Comandos notables:
 * `Install:` instala las dependencias en elm-package.json.
 * `Publish:` publica tu librería para el catalogo de paquetes de Elm.
 * `Bump:` números de versión en base a cambios en la API.
