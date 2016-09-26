@@ -11,7 +11,9 @@ Se pude ver el editor online en acción con estos [ejemplos](http://elm-lang.org
 Se puede instalar la “Plataforma de Elm” que incluye todas las herramientas de la línea de comandos que se necesitan para trabajar con Elm.
 
 Mac - [Instalar](http://install.elm-lang.org/Elm-Platform-0.17.1.pkg)
+
 Windows - [Instalar](http://install.elm-lang.org/Elm-Platform-0.17.1.exe)
+
 Cualquiera — [instalador npm](https://www.npmjs.com/package/elm)  o [construir de la fuente](https://github.com/elm-lang/elm-platform)
 
 Configura tu editor 
