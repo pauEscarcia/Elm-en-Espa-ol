@@ -101,7 +101,7 @@ elm-package install NoRedInk/elm-decode-pipeline
 Esto añade las dependencias a el archivo `elm-package.json` que describe el proyecto. (¡O crealo si no tiene uno todavía!).
 
 ** Comandos notables: **
-* `Instal:` instala las dependencias en elm-package.json.
+* `Install:` instala las dependencias en elm-package.json.
 * `Publish:` publica tu librería para el catalogo de paquetes de Elm.
 * `Bump:` números de versión en base a cambios en la API.
 * `Diff:` obtiene la diferencia entre dos APIs.
