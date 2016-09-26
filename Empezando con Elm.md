@@ -16,7 +16,7 @@ Se puede instalar la “Plataforma de Elm” que incluye todas las herramientas 
 
 ### Configura tu editor 
 
-Se sabe que la sintasis de Elm destaca modulos durante al menos los siguientes editores de texto:
+Se sabe que la sintaxis de Elm destaca módulos durante al menos los siguientes editores de texto:
 
  - [Atom](https://atom.io/packages/language-elm) 
  - [Brackets](https://github.com/lepinay/elm-brackets) 
