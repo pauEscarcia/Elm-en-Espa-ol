@@ -16,7 +16,7 @@ Windows - [Instalar](http://install.elm-lang.org/Elm-Platform-0.17.1.exe)
 
 Cualquiera — [instalador npm](https://www.npmjs.com/package/elm)  o [construir de la fuente](https://github.com/elm-lang/elm-platform)
 
-Configura tu editor 
+### Configura tu editor 
 
 Se sabe que la sintasis de Elm destaca modulos durante al menos los siguientes editores de texto:
 
