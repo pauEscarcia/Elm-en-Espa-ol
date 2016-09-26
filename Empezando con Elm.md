@@ -19,16 +19,19 @@ Configura tu editor
 Sabemos de la sintasis de Elm destacando modulos durante al menos los siguientes editores de texto:
 
  - [Atom](https://atom.io/packages/language-elm) 
- - Brackets 
- - Emacs   
- - IntelliJ 
- - Light Table 
- - Sublime Text •	Vim •	VS Code
+ - [Brackets](https://github.com/lepinay/elm-brackets) 
+ - [Emacs](https://github.com/jcollard/elm-mode)   
+ - [IntelliJ](https://github.com/durkiewicz/elm-plugin)
+ - [LightTable](https://github.com/rundis/elm-light)
+ - [Sublime Text](https://packagecontrol.io/packages/Elm%20Language%20Support)
+ - [Vim](https://github.com/lambdatoast/elm.vim)
+ - [VS Code](https://github.com/sbrink/vscode-elm)
 
-Si tu no tienes un editor como tal, Sublime Text esta bien para empezar con el 
+Si tu no tienes un editor como tal, [Sublime Text](https://packagecontrol.io/packages/Elm%20Language%20Support) esta bien para empezar con el 
 
-Solución de Problemas 
-La manera rápida para aprender cualquier cosa es hablar con otras personas en la comunidad de Elm. Son amables y están felices de ayudarte. Asi que si te quedas atascado durante la instalación o encuentras algo raro visita Elm Slack y pregunta por ello. De hecho, si llegas a estar confuso en cualquier punto mientras estas aprendiendo o usando Elm, pregunta. Puedes ahorrarte horas, ¡Solo hazlo!
+## Solución de Problemas 
+
+La manera rápida para aprender cualquier cosa es hablar con otras personas en la comunidad de Elm. Son amables y están felices de ayudarte. Asi que si te quedas atascado durante la instalación o encuentras algo raro visita [Elm Slack](http://elmlang.herokuapp.com/) y pregunta por ello. De hecho, si llegas a estar confuso en cualquier punto mientras estas aprendiendo o usando Elm, pregunta. Puedes ahorrarte horas, ¡Solo hazlo!
 
 ¿Qué es la plataforma Elm?
 
