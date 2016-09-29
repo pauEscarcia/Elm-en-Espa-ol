@@ -2,12 +2,14 @@
 # La arquitectura de Elm + Efectos
 
 La última sección muestra cómo manejar todo tipo de entrada del usuario. Se puede pensar en esos programas como este:
-![Programa principal](https://github.com/pauEscarcia/Posts_Elm_Spanish/blob/master/Imagenes/beginnerProgram.svg)
+
+![](https://github.com/pauEscarcia/Posts_Elm_Spanish/blob/master/Imagenes/beginnerProgram.png)
 
 Desde nuestra perspectiva, acabamos de recibir mensajes y producir nuevos `Html` para conseguir prestados en la pantalla. El "tiempo de ejecución Elm" está sentado detrás de las escenas. Cuando se pone en `Html` que se da cuenta de la forma en que lo convierta en pantalla es muy rápido. Cuando un usuario hace clic en algo, se da cuenta de cómo tubería que en nuestro programa como un `Msj`. Por lo que el tiempo de ejecución de Elm es el encargado de hacer las cosas. Acabamos transformamos datos.
 
 Esta sección se basa en ese patrón, que le da la capacidad de hacer peticiones HTTP o suscribirse a los mensajes de sockets web. Piensa en esto, de esta manera:
-![Programa](https://github.com/pauEscarcia/Posts_Elm_Spanish/blob/master/Imagenes/program.svg)
+
+![](https://github.com/pauEscarcia/Posts_Elm_Spanish/blob/master/Imagenes/program.png)
 
 En lugar de simplemente producir HTML, ahora vamos a estar produciendo comandos y suscripciones:
 
